@@ -1,0 +1,1 @@
+Linux Permission Management: This project demonstrates managing file and folder permissions for users within a Linux environment using the command line.
