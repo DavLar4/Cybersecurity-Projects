@@ -17,3 +17,5 @@ Hello! I'm a cybersecurity enthusiast and this repository contains a collection 
 6. **Linux Permission Management**: This project demonstrates managing file and folder permissions for users within a Linux environment using the command line.
 
 7. **SQL Data Extraction in Linux Environment**: This project involves extracting specific data from a large dataset using SQL on the Linux command line within a MariaDB virtual machine instance.
+
+8. Incident Handler’s Journal: Details and descriptions of various cybersecurity incidents encountered during the completion of Google’s Cybersecurity Certification
