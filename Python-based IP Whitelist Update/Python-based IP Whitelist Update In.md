@@ -1,0 +1,1 @@
+Python-based IP Whitelist Update: In this project, a Python script was developed using the Jupyter online IDE to update an IP whitelist by automatically removing known malicious IPs.
