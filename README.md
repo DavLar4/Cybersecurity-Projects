@@ -8,7 +8,7 @@ Hello! I'm a cybersecurity enthusiast and this repository contains a collection 
 
 2. **Python-based IP Whitelist Update**: In this project, a Python script was developed using the Jupyter online IDE to update an IP whitelist by automatically removing known malicious IPs.
 
-3. Vulnerability Assessment Report Using NIST SP: Applied NIST SP 800-30 Revision 1 to a high powered server and its operating system, database management system, and network connectivity.
+3. **Vulnerability Assessment Report Using NIST SP**: Applied NIST SP 800-30 Revision 1 to a high powered server and its operating system, database management system, and network connectivity.
    
 4. **Tcpdump Network Data Analysis**: In this project, tcpdump is used in a Linux CLI environment to analyze network and packet data.
 
@@ -18,4 +18,4 @@ Hello! I'm a cybersecurity enthusiast and this repository contains a collection 
 
 7. **SQL Data Extraction in Linux Environment**: This project involves extracting specific data from a large dataset using SQL on the Linux command line within a MariaDB virtual machine instance.
 
-8. Incident Handler’s Journal: Details and descriptions of various cybersecurity incidents encountered during the completion of Google’s Cybersecurity Certification
+8. **Incident Handler’s Journal**: Details and descriptions of various cybersecurity incidents encountered during the completion of Google’s Cybersecurity Certification
